@@ -170,7 +170,7 @@ nav {
 }
 
 /*the songs */
-.experience-outdoors {
+.songs {
   padding-top: 0;
 }
 
@@ -225,14 +225,14 @@ nav {
 }
 
 .dear-name {
-  background: url("images/dearname.jpg") center no-repeat;
+  background: url("dearname.jpg") center no-repeat;
 
 }
 .palette {
-  background: url("images/palette.png") center no-repeat;
+  background: url("palette.png") center no-repeat;
 }
 .blueming {
-  background: url("images/blueming.jpg") center no-repeat;
+  background: url("blueming.jpg") center no-repeat;
 }
 
 .activities-grid-item i {
